@@ -1,1 +1,2 @@
 // Atualiza documentação
+// Otimiza_performance
