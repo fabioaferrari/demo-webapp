@@ -1,0 +1,1 @@
+// Refatora código para melhor legibilidade
