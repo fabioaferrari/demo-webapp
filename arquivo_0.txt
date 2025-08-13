@@ -1,1 +1,2 @@
 // Início_do_projeto
+// Adiciona_configuração_inicial
